@@ -128,4 +128,4 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 
 #Defa
 
-DEFAULT_AUTO_FIELD = 'django.db.models.Di'
+# DEFAULT_AUTO_FIELD = 'django.db.models.Di'
